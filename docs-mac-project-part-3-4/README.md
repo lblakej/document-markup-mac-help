@@ -35,5 +35,5 @@ I don't expect you to do this. It's ridiculous. Just make a logo out of shapes. 
 
 Click into the text and insert a picture. Set the wrapping behind text so that the text will flow over the photo, otherwise a shape will not stay on top of the image. Then return a lot of blank lines so that the text will move off of the top of the Image. Now get your shape and put it on top of the image. Don't try to group it now, because if you do, your shape will disappear behind the back of the image. (Even though the shape looks like it's on top, _it's not really???_ hmmm.) So bring it to the front. Now you can group it. Drag your image back where you want it, and  set the wrap the way you want it and then delete all the hard returns you put in.
 
-[Go to Part 5](docs-mac-project-part-5/README.md)
+[Go to Part 5](../docs-mac-project-part-5/README.md)
 
