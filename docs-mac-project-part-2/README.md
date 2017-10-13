@@ -20,7 +20,7 @@ To make more style changes, click ```Format``` and ```Paragraph``` (just above)
 
 <img src="paragraph.png" width="800">
 
-[Go to next page](../docs-mac-project-part-3/README.md)
+[Go to Part 3](../docs-mac-project-part-3/README.md)
 
 ### 4. To Apply all your Heading 2 styles (and Heading 1 if you have Numbers and Titles) you will need your document map to show. 
 
