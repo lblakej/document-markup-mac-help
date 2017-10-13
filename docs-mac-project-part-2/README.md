@@ -29,4 +29,4 @@ Here is the workaround: Put your cursor in the first page and press ```control``
 
 <img src="control-h.png" width="800">
 
-[Go to Part 3](../docs-mac-project-part-3-4/README.md)
+[Go to Part 3 & 4](../docs-mac-project-part-3-4/README.md)
