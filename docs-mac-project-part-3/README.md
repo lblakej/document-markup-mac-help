@@ -20,7 +20,7 @@ Use this for setting the position and alignment for your author image and your l
 
 <img src="advanced-layout.png" width="800">
 
-### 4. How to group an image and shape in the MS Word on the Mac:
+### 4. How to group an image and shape in MS Word on the Mac:
 
 
 I don't expect you to do this. It's ridiculous. Just make a logo out of shapes. But if you want to group your shapes with an image, I got this to work:
