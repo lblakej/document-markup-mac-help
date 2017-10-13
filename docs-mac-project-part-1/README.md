@@ -79,5 +79,5 @@ Document Layout:
 <img src="page-size.png" width="800" style="border:3px solid black">
 
 
-[Go to next page](../docs-mac-project-part-2/README.md)
+[Go to Part 2](../docs-mac-project-part-2/README.md)
 
