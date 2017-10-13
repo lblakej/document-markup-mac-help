@@ -16,6 +16,6 @@ Here is all you need to take care of the table of contents tasks:
 
 <img src="table-of-contents.png">
 
-### 3. Footer
+### 3. Footnote
 
-If you forgot to put in a footer, you can get that done here now.
+If you forgot to put in a footnote, you can get that done here now.
