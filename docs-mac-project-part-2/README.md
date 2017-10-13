@@ -20,5 +20,5 @@ To make more style changes, click ```Format``` and ```Paragraph``` (just above)
 
 <img src="paragraph.png" width="800">
 
-[Go to next page](../docs-mac-project-part-3/mac-docs-3-4.md)
+[Go to next page](../docs-mac-project-part-3/README.md)
 
