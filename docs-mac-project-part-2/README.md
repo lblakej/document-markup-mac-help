@@ -18,7 +18,7 @@ To make more style changes, click ```Format``` and ```Paragraph``` (just above)
 
 ### 3. This allows you to make the rest of your Style Changes
 
-A student told me there is a way to choose auto, but if you don't know how to do it, or forgot how to do it, just type it in as directed in the screen shot.
+Correction: There is not a drop down to choose auto, but you can click the arrows until you get to auto. Or you can type it in as directed in the screen shot.
 
 <img src="paragraph.png" width="800">
 
