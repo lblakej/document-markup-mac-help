@@ -11,9 +11,7 @@ Use the Page Number tool to put page numbers in the footer. Don't try to edit th
 
 ### 2. Table of Contents 
 
-Here is all you need to take care of the table of contents tasks (ignore footer reference; that is the next task:
-
-
+Here is all you need to take care of the table of contents tasks and the footnote task:
 <img src="table-of-contents.png">
 
 ### 3. Footnote
