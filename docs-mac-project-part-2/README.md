@@ -23,9 +23,7 @@ To make more style changes, click ```Format``` and ```Paragraph``` (just above)
 
 ### 4. To Apply all your Heading 2 styles (and Heading 1 if you have Numbers and Titles) you will need your document map to show. 
 
-**There is no  direct way to find and show your document map on the Mac Version of Word!**
-
-Here is the workaround: Put your cursor in the first page and press ```control``` + ```H```. This will launch the left side panel which will let you click the document map tab:
+The quickest way to get the document map up: Put your cursor in the first page and press ```control``` + ```H```. This will launch the left side panel which will let you click the document map tab:
 
 <img src="control-h.png" width="800">
 
