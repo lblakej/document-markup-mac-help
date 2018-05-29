@@ -2,7 +2,7 @@
 
 ## Macintosh Version
 
-### 1. To choose from a list of different section breaks, you have to use the menu. Which type of section break should you use?
+### 1. To choose from a list of different section breaks, you can use the menu. Which type of section break should you use?
 
 <img src="section-breaks.png" width="800">
 
