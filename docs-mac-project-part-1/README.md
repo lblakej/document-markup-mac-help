@@ -6,9 +6,11 @@
 
 _If you use Safari as your go-to browser, you may not be able to save the .txt file to your desktop. Use Firefox or Chrome for this tutorial._
 
-### 1. [Go to Project Gutenberg and find a book](http://www.gutenberg.org/wiki/Main_Page)
+### 1. [Go to Project Gutenberg and find your assigned book](http://www.gutenberg.org/wiki/Main_Page)
 
-Example Book: *Heroines every Child Should Know*
+This tutorial uses the example Book: *Heroines every Child Should Know*
+
+**DO NOT USE THIS BOOK FOR YOUR PROJECT THAT YOU SUBMIT!**
 
 This is the main page for *Heroines Every Child Should Know*: <http://www.gutenberg.org/ebooks/35994>
 
