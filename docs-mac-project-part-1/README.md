@@ -39,9 +39,11 @@ Now you can see your paragraph markers:
 
 <img src="delete-to-title.png" width="800" style="border:3px solid black">
 
-### 6. Delete the contents:
+### 6. Delete the contents (update: you may want to not delete the contents until after you have styled your chapter headings; it may prove helpful for you as your search:
 
 <img src="delete-contents.png" width="800" style="border:3px solid black">
+
+However, you will want to come back and delete this after you set all of your chapter headings. Your new table of contents will be automatically generated from your headings.
 
 ### 7. Delete all of the ending text you do not need.
 
