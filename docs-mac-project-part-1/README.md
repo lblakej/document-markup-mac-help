@@ -50,19 +50,19 @@ Now you can see your paragraph markers:
 <img src="delete-end.png" width="800" style="border:3px solid black">
 
 
-#### b. On main menu choose ```Edit``` > ```Find``` > ```Advanced Find and Replace```:
+#### 3.03: On main menu choose ```Edit``` > ```Find``` > ```Advanced Find and Replace```:
 
 <img src="advanced-find-replace.png" width="800" style="border:3px solid black">
 
-#### c. Click the ```Replace``` button and go to bottom where it say Find, then choose ```Special```, then click ```Paragraph Mark``` to put the paragraph mark in the find box.
+#### b. Click the ```Replace``` button and go to bottom where it say Find, then choose ```Special```, then click ```Paragraph Mark``` to put the paragraph mark in the find box.
 
 <img src="find-paragraph.png" width="800" style="border:3px solid black">
 
-#### d. Now you can go to the [slide show](https://ils.unc.edu/courses/2017_fall/inls161_001/document-markup/exercise-one/exercise-one-slides/index.html#/) and complete the search and replace tasks.
+#### c. Now you can go to the [slide show](https://ils.unc.edu/courses/2017_fall/inls161_001/document-markup/exercise-one/exercise-one-slides/index.html#/) and complete the search and replace tasks.
 
 <a href="https://ils.unc.edu/courses/2018_spring/inls161_001/03-01d-documents-exercise-1-slides.html"> <img src="search-replace.png" width="800" style="border:3px solid black"></a>
 
-### 3.05: Page Setup
+### 3.04 and 3.05: Page Setup
 
 Click the ```Layout``` tab ```Margins``` button and then ```Custom Margins...```
 
