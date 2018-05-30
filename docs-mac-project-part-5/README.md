@@ -17,3 +17,7 @@ Here is all you need to take care of the table of contents tasks and the footnot
 ### Footnote
 
 If you forgot to put in a footnote, you can get that done here now.
+
+### 3.24: Save and Store
+
+Place the completed task in your password protected directory and place a hyperlink to that file on your task 03 link on your INLS class page on your website. Name your document ```03-lastname.firstname.docx```
