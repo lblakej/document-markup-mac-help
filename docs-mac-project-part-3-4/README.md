@@ -2,11 +2,19 @@
 
 ## Macintosh Version
 
-### 1. To choose from a list of different section breaks, you can use the menu even if you are not on the layout tab.(You can click the breaks button on the layout tab if you prefer.) Which type of section break should you use?
+### 3.13: To choose from a list of different section breaks, you can use the menu even if you are not on the layout tab.(You can click the breaks button on the layout tab if you prefer.) Which type of section break should you use?
+
+Insert appropriate section breaks so that each separate element of the work (preface, chapters, endnotes, if any) starts on new page. (Use your document map and your keyboard shortcuts to speed the process).
 
 <img src="section-breaks.png" width="800">
 
-### 2. Image Wrap and Layout Options
+### 3.14 and 3:15: Prepare for Table of Contents
+
+If your downloaded book has a table of contents included in it, delete it because you will replace it with a new Table of Contents. 
+
+After the title page and prior to the first section of the book, add a section break that will make the following page start on new page between the title page and the first chapter and put the words ""Table of Contents"" formatted as a heading 3 atop this page.
+
+### 3.16, 3.17 and 3.18: Image Wrap and Layout Options
 
 After you place your author image, you can right click on the photo and access the page wrap setting. To get to all of the layout settings, click ```More Layout Options...``` at the bottom of the fly-out panel. 
 
@@ -14,21 +22,21 @@ After you place your author image, you can right click on the photo and access t
 
 
 
-### 3. Clicking The More Layout Options will open the Advanced Layout  panel giving you access to ```position```, ```Text Wrapping``` and ```Size``` options.
+### Clicking The More Layout Options will open the Advanced Layout  panel giving you access to ```position```, ```Text Wrapping``` and ```Size``` options.
 
 Use this for setting the position and alignment for your author image and your logo image.
 
 <img src="advanced-layout.png" width="800">
 
 
-### 4. Mac Version of Word does not have a Drawing Canvas
+### 3.19: Mac Version of Word does not have a Drawing Canvas
 
 The Windows Version requires the drawing canvas to group an imported image and a Word generated shape.
 
 <img src="drawing-canvas.jpg" width="800">
 
 
-### 4. How to group an image and a shape in MS Word on the Mac without a Drawing Canvas:
+### 3.19: How to group an image and a shape in MS Word on the Mac without a Drawing Canvas:
 
 Just make a logo out of shapes. 
 
