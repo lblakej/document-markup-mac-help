@@ -39,7 +39,7 @@ Now you can see your paragraph markers:
 
 <img src="delete-to-title.png" width="800" style="border:3px solid black">
 
-### 6. Delete the contents (update: you may want to not delete the contents until after you have styled your chapter headings; it may prove helpful for you as your search:
+### 6. Delete the contents, now of come back later to delete them (you may want keep contents for reference until after you have styled your chapter headings; it may prove helpful for you as your search for your headings).
 
 <img src="delete-contents.png" width="800" style="border:3px solid black">
 
