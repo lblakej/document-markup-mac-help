@@ -26,7 +26,7 @@ Correction: There is not a drop down to choose auto, but you can click the arrow
 
 ### 3.08.01: Follow the grade sheet info or the task page to create Task03Footnotes
 
-### 3.08.02: Insert and format your footnotes, if you have any.
+### 3.08.02: Insert and format a footnote.
 
 If you don't, you still need to create the new style and insert a footnote that includes the words "an example of the new footnote style" somewhere in the document. Go to the References pane and place your cursor somewhere in the Task03Content text and  click the insert a footnote button. Don't try to put a footnote in a footer. Footers are not for footnotes; this is a common misconception.
 
