@@ -58,9 +58,9 @@ Now you can see your paragraph markers:
 
 <img src="find-paragraph.png" width="800" style="border:3px solid black">
 
-#### c. Now you can go to the [slide show](https://ils.unc.edu/courses/2017_fall/inls161_001/document-markup/exercise-one/exercise-one-slides/index.html#/) and complete the search and replace tasks.
+#### c. Now you can go to the [slide show](https://ils.unc.edu/courses/2018_fall/inls161_002/03/01d-documents-exercise-1-slides.html#/) and complete the search and replace tasks.
 
-<a href="https://ils.unc.edu/courses/2018_fall/inls161_001/03-01d-documents-exercise-1-slides.html"> <img src="search-replace.png" width="800" style="border:3px solid black"></a>
+<a href="https://ils.unc.edu/courses/2018_fall/inls161_002/03/01d-documents-exercise-1-slides.html#/"> <img src="search-replace.png" width="800" style="border:3px solid black"></a>
 
 ### 3.04 and 3.05: Page Setup
 
