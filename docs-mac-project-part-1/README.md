@@ -60,7 +60,7 @@ Now you can see your paragraph markers:
 
 #### c. Now you can go to the [slide show](https://ils.unc.edu/courses/2018_fall/inls161_002/03/01d-documents-exercise-1-slides.html#/) and complete the search and replace tasks.
 
-<a href="https://ils.unc.edu/courses/2018_fall/inls161_002/03/01d-documents-exercise-1-slides.html#/"> <img src="search-replace.png" width="800" style="border:3px solid black"></a>
+<a href="https://ils.unc.edu/courses/2019_spring/inls161_001/03/01d-documents-exercise-1-slides.html#/"> <img src="search-replace.png" width="800" style="border:3px solid black"></a>
 
 ### 3.04 and 3.05: Page Setup
 
