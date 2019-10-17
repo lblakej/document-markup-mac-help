@@ -43,7 +43,7 @@ Now you can see your paragraph markers:
 
 <img src="delete-contents.png" width="800" style="border:3px solid black">
 
- Your new table of contents will be automatically generated from your headings, so the existing table of contents must go now or later.
+ Your new table of contents will be automatically generated from your headings, so the existing table of contents must be deleted now or later. You should probably delete it later so you can use it to find your chapter headings.
 
 ### 3.02: Delete all of the ending text you do not need.
 
