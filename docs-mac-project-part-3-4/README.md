@@ -2,7 +2,7 @@
 
 ## Macintosh Version
 
-### 3.13: To choose from a list of different section breaks, you can use the menu even if you are not on the layout tab.(You can click the breaks button on the layout tab if you prefer.) Which type of section break should you use?
+### 3.13: To choose from a list of different section breaks, you can use the menu even if you are not on the layout tab.(You can click the breaks button on the layout tab if you prefer.) Stick with next page **SECTION** breaks or odd page **SECTION** breaks. Which ever you choose, stay with that choice for the entire project. 
 
 Insert appropriate section breaks so that each separate element of the work (preface, chapters, endnotes, if any) starts on new page. (Use your document map and your keyboard shortcuts to speed the process).
 
