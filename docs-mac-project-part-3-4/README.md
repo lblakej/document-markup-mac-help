@@ -10,6 +10,8 @@ Use one of these
 
 Which ever you choose, stay with that choice for the entire project. 
 
+Do not choose <s>Page Break</s>
+
 Insert appropriate section breaks so that each separate element of the work (preface, chapters, endnotes, if any) starts on new page. (Use your document map and your keyboard shortcuts to speed the process).
 
 <img src="section-breaks.png" width="800">
