@@ -4,10 +4,9 @@
 
 ### 3.13: To choose from a list of different section breaks, you can use the menu even if you are not on the layout tab.(You can click the breaks button on the layout tab if you prefer.) 
 
-Stick with 
-
-* Section Break (next page)  or the
-* Section Break (odd page) odd pag breaks. 
+Use one of these
+* Section Break (next page) will not introduce blank pages
+* Section Break (odd page)  all sections will start on an odd page so you may or may not have a blank even page before each section
 
 Which ever you choose, stay with that choice for the entire project. 
 
